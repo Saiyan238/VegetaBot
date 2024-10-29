@@ -14,16 +14,16 @@ global.confirmCode = ''
 
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
 global.owner = [
-  ['584148256527', 'Legen-soporte', true],
+  ['528621261195', 'Legen-soporte', true],
   ['525659131070', '┈━═[ৡ͜͡✞Saiyan➵͡ ]═━', true],
   ['522284078400'],
   ['525659131070'],
-  ['584120346669']
+  ['522461771637']
 ];
 
 
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
-global.mods = ['5491166401905', '5218711426787', '50557865603', '', '']
+global.mods = ['522461771637', '5218711426787', '50557865603', '', '']
 
 global.suittag = ['5491166401905']
 global.prems = []
@@ -106,11 +106,11 @@ global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(fa
 global.fgif2 = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title":`┈━═[ৡ͜͡✞Saiyan➵͡ ]═━࠱࠭ ͟͞`, "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `Vegeta-ʟᴇɢᴇɴ࿐\n  ͟͞ 𓆩┈━═[ৡ͜͡✞Saiyan➵͡ ]═━ ͟͞`, 'jpegThumbnail': logo4 }}}
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿 
-global.gp4 = 'https://chat.whatsapp.com/DmeDYgjJHiJLubrBmZIevJ' //Grupo Oficial De Drako
-global.gp1 = 'https://chat.whatsapp.com/DmeDYgjJHiJLubrBmZIevJ' //Grupo 
+global.gp4 = 'https://chat.whatsapp.com/JAN61DvAeNsI8br7ctM1VE' //Grupo Oficial De Drako
+global.gp1 = 'https://chat.whatsapp.com/JAN61DvAeNsI8br7ctM1VE' //Grupo 
 global.gp2 = 'https://chat.whatsapp.com/JAN61DvAeNsI8br7ctM1VE'//
-global.comunidad1 = 'https://chat.whatsapp.com/DmeDYgjJHiJLubrBmZIevJ' //Comunidad 
-global.channel = 'https://chat.whatsapp.com/GR1DQTtrfJA7a3O43vY7WT' //Canal Oficial
+global.comunidad1 = 'https://chat.whatsapp.com/JAN61DvAeNsI8br7ctM1VE' //Comunidad 
+global.channel = 'https://whatsapp.com/channel/0029Vatc4Vk1SWt6zQ4ZFY1l' //Canal Oficial
 global.yt = 'https://chat.whatsapp.com/GR1DQTtrfJA7a3O43vY7WT' //Canal De Youtube
 global.md = 'https://chat.whatsapp.com/GR1DQTtrfJA7a3O43vY7WT' //Github Oficial
 global.correo = 'https://chat.whatsapp.com/JAN61DvAeNsI8br7ctM1VE'

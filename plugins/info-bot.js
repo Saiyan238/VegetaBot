@@ -55,7 +55,7 @@ conn.reply(m.chat, `*Calla 🍆🥵*`, m, rcanal, )
 }
 
 if (/^saiyan|creador/i.test(m.text)) {
-conn.reply(m.chat, `*saiysn Es Mi Creador, Respeta!*`, m, rcanal, )
+conn.reply(m.chat, `*saiyan Es Mi Creador, Respeta!*`, m, rcanal, )
 }
 
 if (/^Crow$/i.test(m.text)) {
@@ -98,8 +98,12 @@ conn.reply(m.chat, `*Escucha maldita sabandija ni se te ocurra enviar ese tipo d
   }
 
 if (/^Esclavo/i.test(m.text)) {
-conn.reply(m.chat, `*Ordenes cumplidas amo, hermoso precioso y bello*`, m, rcanal, )
+conn.reply(m.chat, `*hola amo hermoso precioso y bello*`, m, rcanal, )
 }
 return !0;
 };
 export default handler;
+
+if (/^pollo|pollito|xime|ximena/i.test(m.text)) {
+conn.reply(m.chat, `*Ximena es es el pollito mas hermoso del universo, ni se les ocurra molestarla, sabanijas🤬*`, m, rcanal, )
+  }

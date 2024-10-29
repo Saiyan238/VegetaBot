@@ -18,16 +18,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/David-Chian/Megumin-Bot-MD",
+  "homepage": "https://github.com/Saiyan238/VegetaBot",
   "author": {
-    "name": "David-Chian"
+    "name": "Saiyan"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/David-Chian/Megumin-Bot-MD.git"
+    "url": "git+https://github.com/Saiyan238/VegetaBot"
   },
   "bugs": {
-    "url": "https://github.com/David-Chian/Megumin-Bot-MD/issues"
+    "url": "https://github.com/Saiyan238/VegetaBot"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {

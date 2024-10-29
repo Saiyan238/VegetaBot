@@ -41,8 +41,8 @@ Tenemos:
 > *Consulta Los Precios [🌠]*`, m, rcanal, )
 }
 
-if (/^Conoces a Legendary/i.test(m.text)) { 
-conn.reply(m.chat, `*Si Lo conozco, Es Una Zorra caliente 🥵❤️‍🔥*`, m, rcanal, )
+if (/^Saiyan/i.test(m.text)) { 
+conn.reply(m.chat, `*Saiyan es mi creador mi amo hermoso precioso y bello 🐤❤️‍🔥*`, m, rcanal, )
 }
 
 if (/^Como uno al bot en mi grupo/i.test(m.text)) {

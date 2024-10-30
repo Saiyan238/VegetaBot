@@ -5,7 +5,7 @@ handler.all = async function(m) {
 const chat = global.db.data.chats[m.chat];
 if (chat.isBaneed) return
 if (/^bot$/i.test(m.text)) {
-conn.reply(m.chat, `🌠 ¡Hola! Soy VegetaBot, en que puedo ayudarte hoy?\n\n✰ Usa *.menu* para ver mis comandos.`, m, rcanal, )
+conn.reply(m.chat, `🌠 ¡Hola Sabandija! Soy VegetaBot, en que puedo ayudarte insectoy?\n\n✰ Usa *.menu* para ver mis comandos.`, m, rcanal, )
 }
 /*if (/^que|q$/i.test(m.text)) {
 conn.reply(m.chat, `*so*`, m, rcanal, )
@@ -66,7 +66,7 @@ conn.reply(m.chat, `*Lan se la chupa 3 veces seguidas en 5 minutos a mí creador
 }
 
 if (/^Nodoka|lobo|nakano/i.test(m.text)) { 
-conn.reply(m.chat, `*Nodoka Mi Amor, Culona 🥵❤️‍🔥*`, m, rcanal, )
+conn.reply(m.chat, `*Nodoka Mi Amor, 🥵❤️‍🔥*`, m, rcanal, )
 }
 
 if (/^Como uno al bot en mi grupo|cómo puedo tener un bot en mi grupo|Bot Para Grupo|botgp/i.test(m.text)) {
@@ -82,6 +82,10 @@ if (/^Niño Piña|niño|piña/i.test(m.text)) {
 conn.reply(m.chat, `*Niño Piña Es Mi Creador, Respeta!*`, m, rcanal, )
 }
 
+if (/^Bot pollo/polli/pollito/i.test(m.text)) {
+conn.reply(m.chat, `*La polito ama a saiyan🐥*`, m, rcanal, )
+}
+  
 if (/^Crow$/i.test(m.text)) {
 conn.reply(m.chat, `*Hola Eres Fan De* *CrowBot o Brawl Stars*
 *Entonces Sigue El Canal Oficial!*

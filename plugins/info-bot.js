@@ -78,11 +78,11 @@ if (/^Bot en decadencia/i.test(m.text)) {
 conn.reply(m.chat, `*Calla 🍆🥵*`, m, rcanal, )
 }
 
-if (/^Niño Piña|niño|piña/i.test(m.text)) {
-conn.reply(m.chat, `*Niño Piña Es Mi Creador, Respeta!*`, m, rcanal, )
+if (/^Niño Pollo|niño|pollito/i.test(m.text)) {
+conn.reply(m.chat, `*El pollito de xime es corazón de saiyan!*`, m, rcanal, )
 }
 
-if (/^Bot pollo/polli/pollito/i.test(m.text)) {
+if (/^pollo/polli/pollito/i.test(m.text)) {
 conn.reply(m.chat, `*La polito ama a saiyan🐥*`, m, rcanal, )
 }
   
